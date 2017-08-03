@@ -4,7 +4,7 @@ Answer to Siraj´s challenge on optimization video: https://youtu.be/ttE0F7fghfk
 Based on my 4 class meme classifier(Dank,Edgy,Normy,Wholesome):
 https://github.com/elivasquezhdz/Meme_Classification_Tensorflow
 
-It grid searches the best of the following hyperparameters:
+It grid searches the best of the following hyperparameters for a Tensorflow session:
 
 Filter 1 Size, Number filters 1
 
